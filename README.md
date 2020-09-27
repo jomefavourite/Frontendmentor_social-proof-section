@@ -2,4 +2,4 @@
 
 Made using Tailwindcss
 
-![desihn](design/desktop-preview.png)
+![design](./design/desktop-preview.jpg)
